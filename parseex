@@ -1,0 +1,4 @@
+ import parse
+>>> line = "hello my name is rakesh, i am form bengaluru"
+>>> parse_format = "hello my name is {}, i am from {}"
+>>> parse(parse_format, line)

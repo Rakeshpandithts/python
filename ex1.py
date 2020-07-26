@@ -1,0 +1,6 @@
+print ("hello world")
+print ("hello again")
+print ('hi')
+print ('hi jaaga')
+print ('hi pandith')
+print ("hi")
